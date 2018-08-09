@@ -1,3 +1,5 @@
-this is 2nd verison of hello2.txt. A change. One more change.trying rest remove
+this is 2nd verison of hello2.txt. A change. One more change.trying rest remove. 
+
+Adding this to create conflict in feature x
 
 
